@@ -3,14 +3,14 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://cdn-icons-png.flaticon.com/512/4315/4315005.png" alt="Logo" width="80" height="80">
   </a>
-  <h2 align="center">EmployeeDB Backend</h2>
+  <h2 align="center">EmployeeDB Frontend</h2>
   <p>Full Stack Employee Management with ReactJS and Spring Boot</p>
 </div>
 
 
 ## About The Project
 Add, edit, and delete Employees. That's it. 
-* The [backend]() was created with Spring Tool Suite
+* The [backend](https://github.com/oliviaram/EmployeeDB_Backend) was created with Spring Tool Suite
 * The frontend was implemented with VS code and React
 
 ### Built With
